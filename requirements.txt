@@ -1,0 +1,10 @@
+streamlit
+streamlit-webrtc
+ultralytics
+opencv-python
+numpy
+Pillow
+torch
+torchvision
+imageio-ffmpeg
+av
